@@ -1,0 +1,6 @@
+numpy
+scipy
+scikit-learn>=1.9
+joblib
+rdata
+xarray
